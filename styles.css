@@ -1,0 +1,32 @@
+body {
+    width: 1024px;
+    border: 1px solid black;
+    margin: auto;
+    align-content: center;
+}
+
+h1 {
+    font-size: 38px;
+    position: relative;
+    left: 10%;
+}
+
+div {
+    text-align: center;
+}
+
+.name {
+    font-size: 24px;
+}
+
+img {
+    width: 200px;
+    border: 1px solid greenyellow;
+}
+
+.about-me {
+    width: 400px;
+    position: relative;
+    margin: auto;
+}
+
